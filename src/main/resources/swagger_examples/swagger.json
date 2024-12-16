@@ -1,0 +1,21 @@
+{
+    "tagName": "Swagger",
+    "operations": [
+        {
+            "id": "hello",
+            "requests": null,
+            "responses": [
+                {
+
+                    "statusCode": 200,
+                    "description": "OK",
+                    "example": {
+                        "content": "Hi test",
+                        "message": "OK"
+                    }
+                }
+            ]
+        }
+
+    ]
+}
